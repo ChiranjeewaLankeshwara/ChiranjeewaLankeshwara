@@ -91,6 +91,7 @@ I specialize in **Full-Stack Development** and have a strong interest in emergin
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/NativeBase-3E4C59?style=for-the-badge&logo=nativebase&logoColor=white" />
 </p>
 
 ---
