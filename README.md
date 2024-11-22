@@ -1,5 +1,4 @@
-<!-- Header with profile GIF -->
-<a href="https://github.com/ChiranjeewaPeellawatta">![Chiranjeewa's Profile GIF](./assets/profile_presentation.gif)</a> <br><br>
+
 
 💡 _"Code. Learn. Build. Innovate."_  
 
@@ -8,7 +7,7 @@
 ### 🏆 **GitHub Trophies**
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ChiranjeewaPeellawatta&theme=gruvbox&column=7" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ChiranjeewaLankeshwara&theme=gruvbox&column=7" alt="GitHub Trophies" />
   </a> 
 </p>
 
@@ -98,22 +97,22 @@ I specialize in **Full-Stack Development** and have a strong interest in emergin
 
 ### 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChiranjeewaPeellawatta&show_icons=true&theme=tokyonight" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiranjeewaPeellawatta&layout=compact&theme=tokyonight" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ChiranjeewaLankeshwara&show_icons=true&theme=tokyonight" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiranjeewaLankeshwara&layout=compact&theme=tokyonight" height="180px" />
 </p>
 
 ---
 
 ### 🔗 **Projects**
 <p align="center">
-  <a href="https://github.com/ChiranjeewaPeellawatta/Wild_Life_Safari_Management_System">
-    <img src="https://github-readme-projects.vercel.app/api/projects?username=ChiranjeewaPeellawatta&repo=Wild_Life_Safari_Management_System" />
+  <a href="https://github.com/ChiranjeewaLankeshwara/Wild_Life_Safari_Management_System">
+    <img src="https://github-readme-projects.vercel.app/api/projects?username=ChiranjeewaLankeshwara&repo=Wild_Life_Safari_Management_System" />
   </a>
-  <a href="https://github.com/ChiranjeewaPeellawatta/MernPro">
-    <img src="https://github-readme-projects.vercel.app/api/projects?username=ChiranjeewaPeellawatta&repo=MernPro" />
+  <a href="https://github.com/ChiranjeewaLankeshwara/MernPro">
+    <img src="https://github-readme-projects.vercel.app/api/projects?username=ChiranjeewaLankeshwara&repo=MernPro" />
   </a>
-  <a href="https://github.com/ChiranjeewaPeellawatta/OnlineEduX---Online_Examination_Management_System">
-    <img src="https://github-readme-projects.vercel.app/api/projects?username=ChiranjeewaPeellawatta&repo=OnlineEduX---Online_Examination_Management_System" />
+  <a href="https://github.com/ChiranjeewaLankeshwara/OnlineEduX---Online_Examination_Management_System">
+    <img src="https://github-readme-projects.vercel.app/api/projects?username=ChiranjeewaLankeshwara&repo=OnlineEduX---Online_Examination_Management_System" />
   </a>
 </p>
 
