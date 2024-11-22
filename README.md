@@ -102,23 +102,35 @@ I specialize in **Full-Stack Development** and have a strong interest in emergin
 
 ---
 
-### 🔗 **Projects**
+### 📂 **Top Projects**
 <p align="center">
   <a href="https://github.com/ChiranjeewaLankeshwara/Wild_Life_Safari_Management_System">
-    <img src="https://github-readme-projects.vercel.app/api/projects?username=ChiranjeewaLankeshwara&repo=Wild_Life_Safari_Management_System" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChiranjeewaLankeshwara&repo=Wild_Life_Safari_Management_System&theme=tokyonight" />
   </a>
   <a href="https://github.com/ChiranjeewaLankeshwara/MernPro">
-    <img src="https://github-readme-projects.vercel.app/api/projects?username=ChiranjeewaLankeshwara&repo=MernPro" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChiranjeewaLankeshwara&repo=MernPro&theme=tokyonight" />
   </a>
   <a href="https://github.com/ChiranjeewaLankeshwara/OnlineEduX---Online_Examination_Management_System">
-    <img src="https://github-readme-projects.vercel.app/api/projects?username=ChiranjeewaLankeshwara&repo=OnlineEduX---Online_Examination_Management_System" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChiranjeewaLankeshwara&repo=OnlineEduX---Online_Examination_Management_System&theme=tokyonight" />
   </a>
 </p>
 
 ---
 
-### 💬 **Let's Collaborate!**
-Feel free to reach out for collaboration, project discussions, or any inquiries. I’m always excited to work on new ideas! 💬
+### 🔥 **Contribution Graph**
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChiranjeewaLankeshwara&theme=tokyo-night" />
+  </a>
+</p>
+
+---
+
+### **✨ Let's Build Something Amazing Together!**
+Feel free to connect and collaborate on exciting tech projects!  
+
+*"The best way to predict the future is to create it."* 🚀
+
 
 
 <!---
