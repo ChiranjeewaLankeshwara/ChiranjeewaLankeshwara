@@ -1,5 +1,11 @@
 
 <p align="center" ><img  src = "https://github.com/ChiranjeewaLankeshwara/ChiranjeewaLankeshwara/blob/main/Pixel%20GIF.gif?raw=true" width = 1000px height = 300px></p>
+<br/><br/>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=ChiranjeewaLankeshwara&label=Visitor%20Count&icon=5&pretty=true" alt="Visitor Count">
+</p>
+
 
 
 # 💫 About Me:
@@ -88,7 +94,6 @@ Feel free to connect and collaborate on exciting tech projects!
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=ChiranjeewaLankeshwara&label=Visitor%20Count&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/chiranjeewapeellawatta) 
