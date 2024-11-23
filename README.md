@@ -16,10 +16,10 @@ I’m deeply intrigued by the potential of emerging technologies and enjoy exper
 
 As I navigate my journey, I’m committed to continuous learning and growth, working towards mastering advanced web development techniques while creating impactful software solutions that resonate.  
 
-Follow along as I build, innovate, and inspire! 💻🌟  
+Follow along as I build, innovate, and inspire! 💻🌟<br><br>
 
-- 🔭 **Currently Working On:** [MernPro-Full-Stack-CRUDapp](https://github.com/ChiranjeewaLankeshwara/MernPro-Full-Stack-CRUDapp)<br>
-- 🌱 **Learning:** Advanced React, Node.js, MongoDB, PHP, MySQL  [MERN Stack]<br>
+- 🔭 **Currently Working On:** [MernPro-Full-Stack-CRUDapp](https://github.com/ChiranjeewaLankeshwara/MernPro-Full-Stack-CRUDapp)<br><br>
+- 🌱 **Learning:** Advanced React, Node.js, MongoDB, PHP, MySQL  [MERN Stack]<br><br>
 - 🧠 **Fun Fact:** I’m a vintage Android device collector and a music enthusiast who codes to the beats of Spotify—always curious, always creating, always in sync with the rhythm of life. 🎵  
 
 ---
