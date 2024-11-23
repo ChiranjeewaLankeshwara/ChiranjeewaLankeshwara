@@ -1,6 +1,6 @@
 
-<p align="center" ><img  src = "https://github.com/ChiranjeewaLankeshwara/ChiranjeewaLankeshwara/blob/main/Pixel%20GIF.gif?raw=true" width = 1000px height = 300px></p>
-<br/><br/>
+<p align="center" ><img  src = "https://github.com/ChiranjeewaLankeshwara/ChiranjeewaLankeshwara/blob/main/Pixel%20GIF.gif?raw=true" width = 1000px height = 400px></p>
+<br/>
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=ChiranjeewaLankeshwara&label=Visitor%20Count&icon=5&pretty=true" alt="Visitor Count">
