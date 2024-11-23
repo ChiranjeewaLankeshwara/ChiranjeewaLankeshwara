@@ -13,6 +13,11 @@ Hi there!<br>I’m Chiranjeewa Peellawatta, a passionate Software Engineering un
 
 ---
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ChiranjeewaLankeshwara&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Chiranjeewa) 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Chiraax#6841) 
@@ -28,11 +33,6 @@ Hi there!<br>I’m Chiranjeewa Peellawatta, a passionate Software Engineering un
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/DJ_RaaX) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@djraaxbychiransremixes1109) 
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ChiranjeewaLankeshwara&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -107,8 +107,16 @@ Feel free to connect and collaborate on exciting tech projects!
 ---
 
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/chiranjeewapeellawatta) 
+<p align="center">
+  <strong>💰 You can help me by Donating</strong>
+</p>
+<p align="center">
+  <a href="https://buymeacoffee.com/chiranjeewapeellawatta">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BuyMeACoffee">
+  </a>
+</p>
+
+
 
   
 
