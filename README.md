@@ -1,3 +1,7 @@
+<!-- Header with profile GIF -->
+<a href="https://github.com/ChiranjeewaLankeshwara">![Chiranjeewa's Profile GIF]([./assets/profile_presentation.gif](https://github.com/ChiranjeewaLankeshwara/ChiranjeewaLankeshwara/blob/main/Animation%20GIF.gif?raw=true))</a><br>
+
+
 # 💫 About Me:
 Hi there!<br>I’m Chiranjeewa Peellawatta, a passionate Software Engineering undergraduate from Sri Lanka! 🎓<br>I specialize in Full-Stack Development and have a strong interest in emerging technologies, with a particular focus on the MERN stack. I love experimenting with old Android devices and contributing to open-source projects.<br><br>🔭 Currently Working On: OnlineEduX - Online Examination Management System<br>🌱 Currently Learning: Advanced React, Node.js, MongoDB, PHP, MySQL<br>🧠 Fun Fact: I’m a vintage Android device collector and a music enthusiast. I unwind by listening to Spotify while coding! 🎵<br>
 
