@@ -17,8 +17,8 @@ As I navigate my journey, I’m committed to continuous learning and growth, wor
 
 Follow along as I build, innovate, and inspire! 💻🌟  
 
-🔭 **Currently Working On:** [MernPro-Full-Stack-CRUDapp](https://github.com/ChiranjeewaLankeshwara/MernPro-Full-Stack-CRUDapp)
-🌱 **Learning:** Advanced React, Node.js, MongoDB, PHP, MySQL  [MERN Stack]
+🔭 **Currently Working On:** [MernPro-Full-Stack-CRUDapp](https://github.com/ChiranjeewaLankeshwara/MernPro-Full-Stack-CRUDapp)<br>
+🌱 **Learning:** Advanced React, Node.js, MongoDB, PHP, MySQL  [MERN Stack]<br>
 🧠 **Fun Fact:** I’m a vintage Android device collector and a music enthusiast who codes to the beats of Spotify—always curious, always creating, always in sync with the rhythm of life. 🎵  
 
 ---
