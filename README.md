@@ -1,5 +1,5 @@
 
-<p align="center" ><img  src = "https://github.com/ChiranjeewaLankeshwara/ChiranjeewaLankeshwara/blob/main/Animation%20GIF.gif?raw=true" width = 1000px height = 350px></p>
+<p align="center" ><img  src = "https://github.com/ChiranjeewaLankeshwara/ChiranjeewaLankeshwara/blob/main/Animation%20GIF.gif?raw=true" width = 1000px height = 400px></p>
 
 
 # 💫 About Me:
