@@ -1,5 +1,5 @@
-<!-- Header with profile GIF -->
-<a href="https://github.com/ChiranjeewaLankeshwara">![Chiranjeewa's Profile GIF]([./assets/profile_presentation.gif](https://github.com/ChiranjeewaLankeshwara/ChiranjeewaLankeshwara/blob/main/Animation%20GIF.gif?raw=true))</a><br>
+
+<p align="center" ><img  src = "https://github.com/ChiranjeewaLankeshwara/ChiranjeewaLankeshwara/blob/main/Animation%20GIF.gif?raw=true" width = 1000px height = 300px></p>
 
 
 # 💫 About Me:
