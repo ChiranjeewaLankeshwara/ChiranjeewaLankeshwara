@@ -8,12 +8,22 @@
 
 
 
-# 💫 About Me:
-Hi there!<br>I’m Chiranjeewa Peellawatta, a passionate Software Engineering undergraduate from Sri Lanka! 🎓<br>I specialize in Full-Stack Development and have a strong interest in emerging technologies, with a particular focus on the MERN stack. I love experimenting with old Android devices and contributing to open-source projects.<br><br>🔭 Currently Working On: OnlineEduX - Online Examination Management System<br>🌱 Currently Learning: Advanced React, Node.js, MongoDB, PHP, MySQL<br>🧠 Fun Fact: I’m a vintage Android device collector and a music enthusiast. I unwind by listening to Spotify while coding! 🎵<br>
+💫 **About Me**  
+Hi there! I’m Chiranjeewa Peellawatta, a passionate Software Engineering undergraduate from Sri Lanka! 🎓 I specialize in Full-Stack Development, particularly the MERN stack, and thrive on blending creativity with technical expertise to craft meaningful digital experiences.  
+
+I’m deeply intrigued by the potential of emerging technologies and enjoy experimenting with vintage Android devices, breathing new life into them while gaining hands-on insights into mobile systems. Open-source contributions fuel my passion for collaborative innovation, and I’m constantly exploring new ways to merge functionality with simplicity.  
+
+As I navigate my journey, I’m committed to continuous learning and growth, working towards mastering advanced web development techniques while creating impactful software solutions that resonate.  
+
+Follow along as I build, innovate, and inspire! 💻🌟  
+
+🔭 **Currently Working On:** [MernPro-Full-Stack-CRUDapp](https://github.com/ChiranjeewaLankeshwara/MernPro-Full-Stack-CRUDapp)
+🌱 **Learning:** Advanced React, Node.js, MongoDB, PHP, MySQL  [MERN Stack]
+🧠 **Fun Fact:** I’m a vintage Android device collector and a music enthusiast who codes to the beats of Spotify—always curious, always creating, always in sync with the rhythm of life. 🎵  
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 Trophy Road
 ![](https://github-profile-trophy.vercel.app/?username=ChiranjeewaLankeshwara&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
