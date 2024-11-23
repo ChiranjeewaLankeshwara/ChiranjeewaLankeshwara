@@ -19,8 +19,25 @@ Hi there!<br>I’m Chiranjeewa Peellawatta, a passionate Software Engineering un
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ChiranjeewaLankeshwara&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+---
+
+### 🔥 **Contribution Graph**
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChiranjeewaLankeshwara&theme=tokyo-night" />
+  </a>
+</p>
+
+---
+
+### **✨ Let's Build Something Amazing Together!**
+Feel free to connect and collaborate on exciting tech projects!  
+
+---
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+*"The best way to predict the future is to create it."* 🚀
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ChiranjeewaLankeshwara&limit=5&theme=neon&combine_all_yearly_contributions=true)
@@ -32,4 +49,4 @@ Hi there!<br>I’m Chiranjeewa Peellawatta, a passionate Software Engineering un
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/chiranjeewapeellawatta) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
