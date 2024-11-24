@@ -114,8 +114,8 @@ Follow along as I build, innovate, and inspire! 💻🌟<br><br>
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=ChiranjeewaLankeshwara&theme=radical&hide_border=false_position=center)&nbsp;
-![](https://github-readme-stats.vercel.app/api?username=ChiranjeewaLankeshwara&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false_position=center)&nbsp;
+![](https://github-readme-streak-stats.herokuapp.com/?user=ChiranjeewaLankeshwara&theme=radical&hide_border=false)&nbsp;
+![](https://github-readme-stats.vercel.app/api?username=ChiranjeewaLankeshwara&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)&nbsp;
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img alt="Chiranjeewa's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiranjeewaLankeshwara&layout=compact&theme=midnight-purple"/>
 </a>
