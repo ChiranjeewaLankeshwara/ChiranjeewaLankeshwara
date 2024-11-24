@@ -118,7 +118,7 @@ Follow along as I build, innovate, and inspire! 💻🌟<br><br>
 <a href="https://github.com/ChiranjeewaLankeshwara/github-readme-stats">
   <img alt="Chiranjeewa's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiranjeewaLankeshwara&layout=compact&theme=highcontrast"/>
 </a>
-![Chiranjeewa's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChiranjeewaLankeshwara&show_icons=true&theme=midnight-purple)&nbsp;
+![Chiranjeewa's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChiranjeewaLankeshwara&show_icons=true&theme=dark)&nbsp;
 
 
 
